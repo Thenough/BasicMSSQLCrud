@@ -1,0 +1,11 @@
+C:\Users\mcann\OneDrive\Masaüstü\gİTHUBeNGİN\Urun_Takip_Kayit\Urun_Takip_Kayit\bin\Debug\Urun_Takip_Kayit.exe.config
+C:\Users\mcann\OneDrive\Masaüstü\gİTHUBeNGİN\Urun_Takip_Kayit\Urun_Takip_Kayit\bin\Debug\Urun_Takip_Kayit.exe
+C:\Users\mcann\OneDrive\Masaüstü\gİTHUBeNGİN\Urun_Takip_Kayit\Urun_Takip_Kayit\bin\Debug\Urun_Takip_Kayit.pdb
+C:\Users\mcann\OneDrive\Masaüstü\gİTHUBeNGİN\Urun_Takip_Kayit\Urun_Takip_Kayit\obj\Debug\Urun_Takip_Kayit.csproj.AssemblyReference.cache
+C:\Users\mcann\OneDrive\Masaüstü\gİTHUBeNGİN\Urun_Takip_Kayit\Urun_Takip_Kayit\obj\Debug\Urun_Takip_Kayit.Properties.Resources.resources
+C:\Users\mcann\OneDrive\Masaüstü\gİTHUBeNGİN\Urun_Takip_Kayit\Urun_Takip_Kayit\obj\Debug\Urun_Takip_Kayit.csproj.GenerateResource.cache
+C:\Users\mcann\OneDrive\Masaüstü\gİTHUBeNGİN\Urun_Takip_Kayit\Urun_Takip_Kayit\obj\Debug\Urun_Takip_Kayit.csproj.CoreCompileInputs.cache
+C:\Users\mcann\OneDrive\Masaüstü\gİTHUBeNGİN\Urun_Takip_Kayit\Urun_Takip_Kayit\obj\Debug\Urun_Takip_Kayit.exe
+C:\Users\mcann\OneDrive\Masaüstü\gİTHUBeNGİN\Urun_Takip_Kayit\Urun_Takip_Kayit\obj\Debug\Urun_Takip_Kayit.pdb
+C:\Users\mcann\OneDrive\Masaüstü\gİTHUBeNGİN\Urun_Takip_Kayit\Urun_Takip_Kayit\obj\Debug\Urun_Takip_Kayit.CategoryForm.resources
+C:\Users\mcann\OneDrive\Masaüstü\gİTHUBeNGİN\Urun_Takip_Kayit\Urun_Takip_Kayit\obj\Debug\Urun_Takip_Kayit.UrunForm.resources
